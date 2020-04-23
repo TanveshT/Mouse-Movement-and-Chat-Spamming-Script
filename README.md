@@ -1,0 +1,1 @@
+# This is a script for mouse cursor movement in addition to chat spammer
